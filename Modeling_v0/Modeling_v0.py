@@ -9,6 +9,7 @@ Main Executable
 
 import numpy as np
 import pandas as pd
+import sys
 import matplotlib.pyplot as plt
 
 import yfinance as yf
@@ -18,7 +19,9 @@ if __name__ == '__main__':
     TSLA = yf.download(tickers=['TSLA'],period='max')
 
     print(TSLA.head(20))
-    print(TSLA.columns)
+    print(TSLA.shape)
+
+    print(sys.getsizeof(TSLA))
 
     x = TSLA.index
     y1 = TSLA['Open']
