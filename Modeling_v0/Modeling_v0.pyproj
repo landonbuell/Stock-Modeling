@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>edb9c34a-75d5-4e2d-97c8-454c49b92e0e</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Modeling_v0.py</StartupFile>
+    <StartupFile>Stock_Model_MAIN.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -21,7 +21,10 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="Modeling_v0.py" />
+    <Compile Include="Stock_Model_MAIN.py" />
+    <Compile Include="Stock_Model_Utilities.py">
+      <SubType>Code</SubType>
+    </Compile>
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
