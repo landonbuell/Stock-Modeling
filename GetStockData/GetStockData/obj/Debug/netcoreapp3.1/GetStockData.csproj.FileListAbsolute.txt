@@ -1,0 +1,13 @@
+C:\Users\Landon\Documents\GitHub\Stock-Modeling\GetStockData\GetStockData\bin\Debug\netcoreapp3.1\GetStockData.exe
+C:\Users\Landon\Documents\GitHub\Stock-Modeling\GetStockData\GetStockData\bin\Debug\netcoreapp3.1\GetStockData.deps.json
+C:\Users\Landon\Documents\GitHub\Stock-Modeling\GetStockData\GetStockData\bin\Debug\netcoreapp3.1\GetStockData.runtimeconfig.json
+C:\Users\Landon\Documents\GitHub\Stock-Modeling\GetStockData\GetStockData\bin\Debug\netcoreapp3.1\GetStockData.runtimeconfig.dev.json
+C:\Users\Landon\Documents\GitHub\Stock-Modeling\GetStockData\GetStockData\bin\Debug\netcoreapp3.1\GetStockData.dll
+C:\Users\Landon\Documents\GitHub\Stock-Modeling\GetStockData\GetStockData\bin\Debug\netcoreapp3.1\GetStockData.pdb
+C:\Users\Landon\Documents\GitHub\Stock-Modeling\GetStockData\GetStockData\obj\Debug\netcoreapp3.1\GetStockData.csprojAssemblyReference.cache
+C:\Users\Landon\Documents\GitHub\Stock-Modeling\GetStockData\GetStockData\obj\Debug\netcoreapp3.1\GetStockData.AssemblyInfoInputs.cache
+C:\Users\Landon\Documents\GitHub\Stock-Modeling\GetStockData\GetStockData\obj\Debug\netcoreapp3.1\GetStockData.AssemblyInfo.cs
+C:\Users\Landon\Documents\GitHub\Stock-Modeling\GetStockData\GetStockData\obj\Debug\netcoreapp3.1\GetStockData.csproj.CoreCompileInputs.cache
+C:\Users\Landon\Documents\GitHub\Stock-Modeling\GetStockData\GetStockData\obj\Debug\netcoreapp3.1\GetStockData.dll
+C:\Users\Landon\Documents\GitHub\Stock-Modeling\GetStockData\GetStockData\obj\Debug\netcoreapp3.1\GetStockData.pdb
+C:\Users\Landon\Documents\GitHub\Stock-Modeling\GetStockData\GetStockData\obj\Debug\netcoreapp3.1\GetStockData.genruntimeconfig.cache
