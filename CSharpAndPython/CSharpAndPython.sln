@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpAndPython", "CSharpAndPython\CSharpAndPython.csproj", "{2C280F04-7C73-4DC4-9018-98B9B37A320C}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PythonBackend", "PythonBackend\PythonBackend.pyproj", "{961B14CA-CF18-454C-932C-2C6F8D8CB978}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C280F04-7C73-4DC4-9018-98B9B37A320C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C280F04-7C73-4DC4-9018-98B9B37A320C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C280F04-7C73-4DC4-9018-98B9B37A320C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C280F04-7C73-4DC4-9018-98B9B37A320C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{961B14CA-CF18-454C-932C-2C6F8D8CB978}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{961B14CA-CF18-454C-932C-2C6F8D8CB978}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A881A70-90BC-4609-921B-EBA97F338AFC}
+	EndGlobalSection
+EndGlobal
