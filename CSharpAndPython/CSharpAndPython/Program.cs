@@ -15,8 +15,14 @@ namespace CSharpAndPython
             string pyScriptPath = @"C:\Users\Landon\Documents\GitHub\Stock-Modeling\CSharpAndPython\PythonBackend\PythonBackend.py";
 
             var PythonEngine = Python.CreateEngine();
-            var Scope = PythonEngine.CreateScope();
-            var Source = PythonEngine.CreateScriptSourceFromFile(pyScriptPath);
+            try
+            {
+                PythonEngine.ExecuteFile(pyScriptPath);
+            }
+            catch (Exception Ex)
+            {
+                Console.WriteLine(Ex.Message);
+            }
 
             Console.WriteLine("This is C# Again!");           
         }
