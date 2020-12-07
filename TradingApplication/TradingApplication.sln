@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "TradingApp", "TradingApp\TradingApp.pyproj", "{8CE4E2AC-D923-4111-992B-8443B0BAEE03}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8CE4E2AC-D923-4111-992B-8443B0BAEE03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CE4E2AC-D923-4111-992B-8443B0BAEE03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D92FC89-156B-4DFD-9AB7-B96FB9330D3C}
+	EndGlobalSection
+EndGlobal

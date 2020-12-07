@@ -10,14 +10,16 @@ namespace CSharpAndPython
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("This is C# Speaking!");
-            Console.WriteLine("Waiting on Python...");
+            
 
-            string pyScriptPath = @"C:\Users\Landon\Documents\GitHub\Stock-Modeling\CSharpAndPython\PythonBackend\PythonBackend.py";
-
-            var PythonEngine = Python.CreateEngine();
+            
             try
             {
-                PythonEngine.ExecuteFile(pyScriptPath);
+                using Process myProcess = new Process();
+                myProcess.StartInfo.UseShellExecute = false;
+                myProcess.StartInfo.
+                myProcess.StartInfo.FileName = @"C:\Users\Landon\Documents\GitHub\Stock-Modeling\CSharpAndPython\PythonBackend\PythonBackend.py";
+                myProcess.Start();
             }
             catch (Exception Ex)
             {
