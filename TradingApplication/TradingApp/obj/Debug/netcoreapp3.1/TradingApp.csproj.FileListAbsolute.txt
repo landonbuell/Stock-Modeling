@@ -1,0 +1,13 @@
+C:\Users\Landon\Documents\GitHub\Stock-Modeling\TradingApplication\TradingApp\bin\Debug\netcoreapp3.1\TradingApp.exe
+C:\Users\Landon\Documents\GitHub\Stock-Modeling\TradingApplication\TradingApp\bin\Debug\netcoreapp3.1\TradingApp.deps.json
+C:\Users\Landon\Documents\GitHub\Stock-Modeling\TradingApplication\TradingApp\bin\Debug\netcoreapp3.1\TradingApp.runtimeconfig.json
+C:\Users\Landon\Documents\GitHub\Stock-Modeling\TradingApplication\TradingApp\bin\Debug\netcoreapp3.1\TradingApp.runtimeconfig.dev.json
+C:\Users\Landon\Documents\GitHub\Stock-Modeling\TradingApplication\TradingApp\bin\Debug\netcoreapp3.1\TradingApp.dll
+C:\Users\Landon\Documents\GitHub\Stock-Modeling\TradingApplication\TradingApp\bin\Debug\netcoreapp3.1\TradingApp.pdb
+C:\Users\Landon\Documents\GitHub\Stock-Modeling\TradingApplication\TradingApp\obj\Debug\netcoreapp3.1\TradingApp.csprojAssemblyReference.cache
+C:\Users\Landon\Documents\GitHub\Stock-Modeling\TradingApplication\TradingApp\obj\Debug\netcoreapp3.1\TradingApp.AssemblyInfoInputs.cache
+C:\Users\Landon\Documents\GitHub\Stock-Modeling\TradingApplication\TradingApp\obj\Debug\netcoreapp3.1\TradingApp.AssemblyInfo.cs
+C:\Users\Landon\Documents\GitHub\Stock-Modeling\TradingApplication\TradingApp\obj\Debug\netcoreapp3.1\TradingApp.csproj.CoreCompileInputs.cache
+C:\Users\Landon\Documents\GitHub\Stock-Modeling\TradingApplication\TradingApp\obj\Debug\netcoreapp3.1\TradingApp.dll
+C:\Users\Landon\Documents\GitHub\Stock-Modeling\TradingApplication\TradingApp\obj\Debug\netcoreapp3.1\TradingApp.pdb
+C:\Users\Landon\Documents\GitHub\Stock-Modeling\TradingApplication\TradingApp\obj\Debug\netcoreapp3.1\TradingApp.genruntimeconfig.cache
