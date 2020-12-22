@@ -14,15 +14,17 @@ namespace TradingApp.TickerObjects
         protected string _dateStart;
         protected string _dateEnd;
         protected int _daysTraded;
-        
 
         public StockTicker (string tickerName, string market)
         {
             // Constructor for new StockTicker Instance
             _name = tickerName;
             _market = market;
+            LastUpdate = DateTime.Now;
         }
-        
+
+        public DateTime LastUpdate { get; internal set; }
+
 
     }
 }
